@@ -1,5 +1,4 @@
-# iOSProjectStructure
-**Project Structure**
+# Project Structure 
 
 ## Prerequisites:
 - macOS
