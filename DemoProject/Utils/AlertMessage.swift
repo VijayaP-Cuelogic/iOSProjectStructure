@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+enum ErrorMessage {
+    static let alertMessage1 = "alertMessage1 ..."
+    static let alertMessage2 = "alertMessage2 ...."
+}

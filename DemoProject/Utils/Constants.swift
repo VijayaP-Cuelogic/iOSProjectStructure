@@ -7,4 +7,11 @@
 //
 
 import Foundation
+struct Constants {
+    static let someConstant = "NameConstant"
+}
+enum Config {
+    static let baseURL = NSURL(string: "http://www.abc.com/")!
+    static let environment = "Dev"
+}
 
